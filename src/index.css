@@ -25,7 +25,8 @@ header {
   color: white;
   font-family: 'Poppins';
   font-size: 1 rem;
-  padding: 0.5 rem 1.5 rem;
+  /* padding: 0.5 rem 1.5 rem; */
+  padding: 5px;
   outline: none;
 }
 
