@@ -7,6 +7,7 @@ export const moviesList = [
              dynasty transfers control of his clandestine 
              empire to his reluctant son.`,
     rate: 5,
+    trailer: `https://www.youtube.com/embed/sY1S34973zA`,
   },
   {
     id: 2,
@@ -17,6 +18,7 @@ export const moviesList = [
               fight club that evolves into something much, 
               much more.`,
     rate: 5,
+    trailer: `https://www.youtube.com/embed/SUXWAEX2jlg`,
   },
   {
     id: 3,
@@ -26,6 +28,7 @@ export const moviesList = [
              a magician uses his abilities to secure the 
              love of a woman far above his social standing.`,
     rate: 4,
+    trailer: `"https://www.youtube.com/embed/i0xO64icGSY"`,
   },
   {
     id: 4,
@@ -35,6 +38,7 @@ export const moviesList = [
               tries to prevent his younger brother 
               from going down the same wrong path that he did.`,
     rate: 5,
+    trailer: `https://www.youtube.com/embed/XfQYHqsiN5g`,
   },
   {
     id: 6,
@@ -48,6 +52,7 @@ export const moviesList = [
   world, across the dance floor, trapped in a secluded prison, into the jungle and, worst of all for 
   them, constantly into each other's company.`,
     rate: 5,
+    trailer: `https://www.youtube.com/embed/Pj0wz7zu3Ms`,
   },
   {
     id: 7,
@@ -56,6 +61,7 @@ export const moviesList = [
     description: `Fatherhood is brought to another level as Adam Sandler employs his unique brand of 
   humor to face the challenges of parenthood.`,
     rate: 5,
+    trailer: `https://www.youtube.com/embed/jxnccxgybUI`,
   },
   {
     id: 8,
@@ -67,6 +73,7 @@ export const moviesList = [
   daughter, Dan Forester teams up with a brilliant scientist and his estranged father to rewrite the 
   planet’s fate.`,
     rate: 4,
+    trailer: `https://www.youtube.com/embed/QPistcpGB8o`,
   },
   {
     id: 9,
@@ -76,6 +83,7 @@ export const moviesList = [
     seeking justice for the murder of his pregnant wife in Without Remorse, the explosive origin story 
     of action hero John Clark`,
     rate: 3,
+    trailer: `https://www.youtube.com/embed/e-rw2cxFVLg`,
   },
   {
     id: 10,
@@ -83,21 +91,25 @@ export const moviesList = [
     posterUrl: `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4cva-1lP7BWHGxzViMxx2HeA9Ah4HAjwkMQGNb8a_zwfxF9Q8`,
     description: `A man from another world crash lands on Earth during the age of the Vikings.`,
     rate: 5,
+    trailer: `https://www.youtube.com/embed/PFFKjptRr7Y`,
   },
   {
     id: 11,
     title: 'Bruce Willis Die Hard',
     rate: 4,
-
+    description: `Die Hard is a 1988 American action film directed by John McTiernan and written by Jeb Stuart and Steven E. de Souza. It is based on the 1979 novel Nothing Lasts Forever by Roderick Thorp, and it stars Bruce Willis, Alan Rickman, Alexander Godunov, and Bonnie Bedelia. Die Hard follows New York City police detective John McClane (Willis) who is caught up in a terrorist takeover of a Los Angeles skyscraper while visiting his estranged wife. Reginald VelJohnson, William Atherton, Paul Gleason, and Hart Bochner feature in supporting roles.`,
     posterUrl:
       'https://images.moviesanywhere.com/b853294bdcbd7f3f50caa4d4e88bdbb5/7356456a-0b47-4dc1-bd71-39fefae15adb.jpg?h=375&resize=fit&w=250',
+    trailer: `https://www.youtube.com/embed/jaJuwKCmJbY`,
   },
   {
     id: 12,
     title: 'Pride and Prejuduce',
     rate: '5',
+    description: `Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. They must overcome the titular sins of pride and prejudice in order to fall in love and marry.`,
     posterUrl:
       'https://images.moviesanywhere.com/39620e4fb032335b636cb169d766202e/a3817776-28cd-4c1a-8e5c-228538134ee5.jpg?h=375&resize=fit&w=250',
+    trailer: `https://www.youtube.com/embed/1dYv5u6v55Y`,
   },
   {
     id: 13,
@@ -105,5 +117,6 @@ export const moviesList = [
     rate: '5',
     description: `Pitch Perfect is an American musical comedy media franchise created by Kay Cannon, loosely based on the non-fiction book Pitch Perfect: The Quest for Collegiate a Cappella Glory by Mickey Rapkin. Jason Moore directed the first film, and Elizabeth Banks directed the second, Trish Sie directed the third.`,
     posterUrl: 'https://m.media-amazon.com/images/I/51hA+Ek13dL._AC_.jpg',
+    trailer: `https://www.youtube.com/embed/8dItOM6eYXY`,
   },
 ];
